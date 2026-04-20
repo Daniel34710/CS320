@@ -1,0 +1,8 @@
+How can I ensure that my code, program, or software is functional and secure?
+Testing is the straightforward path to quality, but it requires setting ego and pride aside. The goal isn’t to defend the code, it’s to verify that it does exactly what it’s supposed to do and nothing it shouldn’t. That’s why independent testing teams are so valuable. Equally important is simply doing the testing. Integrate tests into your CI pipelines so they run automatically and prevent broken builds from slipping through. When tests fail, investigate and fix the issue don’t disable the tests or ignore the results.
+
+How do I interpret user needs and incorporate them into a program?
+User needs can be challenging to interpret, especially when users are unsure of what they want or struggle to express it clearly. Techniques like the 5 Whys can help uncover the underlying goals behind their requests. Observing users through shoulder surfing watching them interact with similar software and asking why they take certain actions can also reveal valuable insights. Finally, creating mockups or prototypes gives users something concrete to react to, helping catch misunderstandings early and reducing the risk of major issues in the final product.
+
+How do I approach designing software?
+I engage with the person presenting the software with a sense of genuine, open curiosity. Approaching them this way helps them articulate their vision more clearly, which in turn supports others in understanding it. Clients rarely have every detail figured out at the start, and thoughtful elicitation encourages them to explore and refine their ideas. 
